@@ -1,0 +1,8 @@
+com.guestu.jbpm
+com.guestu.jbpm.api
+com.guestu.jbpm.config
+com.guestu.jbpm.dto
+com.guestu.jbpm.prototyping
+com.guestu.jbpm.service.Impl
+com.guestu.jbpm.util
+com.guestu.jbpm.util.exceptions
